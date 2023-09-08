@@ -46,14 +46,10 @@
   - 로그인한 사원이 참여하고 있는 프로젝트 전체 진척도
   - 팀별 프로젝트 정보 조회
 
-##### 프로젝트 센터 [상세보기-WIKI이동]()
+##### 프로젝트 센터 [상세보기-WIKI이동](https://github.com/tnfladl9926/PMS-Servlet/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%BC%ED%84%B0))
   - 프로젝트에 대한 이슈, 산출물, 버전 등 조회
 
-##### 버전관리 [상세보기-WIKI이동]()
+##### 버전관리 [상세보기-WIKI이동](https://github.com/tnfladl9926/PMS-Servlet/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC))
   - 완료된 프로젝트 버전 정보 관리
   - 이미지, 파일 등 여러 유형의 서류 CRUD
   - 파일 다운로드
-
-##### 산출물 관리 [상세보기-WIKI이동]()
-  - 각 프로젝트에서 파생된 산출물 조회
-  - 산출물 파일 다운로드
