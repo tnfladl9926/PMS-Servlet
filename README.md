@@ -19,6 +19,7 @@
  - 최재현: 작업관리 CRUD, 캘린더
  - 유동현: 작업관리, 산출물관리 CRUD
  - 김지우: 공지사항 CRUD, 사원등록
+<br/>
   
 ## ⚙ 개발 환경
 * `Java 8`
@@ -52,4 +53,7 @@
 ##### 버전관리 [상세보기-WIKI이동](https://github.com/tnfladl9926/PMS-Servlet/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC))
   - 완료된 프로젝트 버전 정보 관리
   - 이미지, 파일 등 여러 유형의 서류 CRUD
-  - 파일 다운로드
+  - 파일 다운로드  
+<br/>
+
+## :heartpulse: 느낀점
