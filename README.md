@@ -1,14 +1,14 @@
 # Servlet Project - PMS system
-서블릿 + JSP를 기반으로 구현한 프로젝트입니다.
+서블릿 + JSP를 기반으로 구현한 프로젝트입니다.  
 <br/>
 
 ## 🖥 프로젝트 소개
-사내 효율적인 프로젝트 관리를 위한 PMS프로그램을 구현하였습니다.
+사내 효율적인 프로젝트 관리를 위한 PMS프로그램을 구현하였습니다.  
 <br/>
 
 
 ## 📅 개발기간
-* 23.05.26 ~ 23.06.09
+* 23.05.26 ~ 23.06.09  
 <br/>
 
 ## :two_men_holding_hands: 팀원 구성
@@ -18,25 +18,23 @@
  - 김재욱: 프로젝트센터(프로젝트 등록, 비용등록)
  - 최재현: 작업관리 CRUD, 캘린더
  - 유동현: 작업관리, 산출물관리 CRUD
- - 김지우: 공지사항 CRUD, 사원등록
+ - 김지우: 공지사항 CRUD, 사원등록  
 <br/>
   
 ## ⚙ 개발 환경
-* `Java 8`
-* `JDK 1.8.0`
+* `Java 11`
+* `JDK 11.0.1`
 - **IDE** : Eclipse
 - **Database** : Oracle DB(11xe)
 
 ### ✔️Frond-end
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=Css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 ### ✔️Back-end
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-</br>
-
-</br>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">  
+<br/>
 
 ## :keyboard:DB 설계
-![pmserd](https://github.com/tnfladl9926/PMS-Servlet/assets/134984241/8e586233-5bb7-430f-9bf1-0065f15a1807)
+![pmserd](https://github.com/tnfladl9926/PMS-Servlet/assets/134984241/8e586233-5bb7-430f-9bf1-0065f15a1807)  
 </br>
 
 ## 📌 주요 기능
