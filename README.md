@@ -35,7 +35,7 @@
 </br>
 
 ## :keyboard:DB 설계
-
+![pmserd](https://github.com/tnfladl9926/PMS-Servlet/assets/134984241/8e586233-5bb7-430f-9bf1-0065f15a1807)
 </br>
 
 ## 📌 주요 기능
