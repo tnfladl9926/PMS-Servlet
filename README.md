@@ -41,19 +41,21 @@
 
 ## 📌 주요 기능
 
-##### 종합 대시보드 [상세보기-WIKI이동](https://github.com/tnfladl9926/PMS-Servlet/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%A2%85%ED%95%A9-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C))
+#### 종합 대시보드 [상세보기-WIKI이동](https://github.com/tnfladl9926/PMS-Servlet/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%A2%85%ED%95%A9-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C))
   - 프로젝트 관련 사항 알림
   - 로그인한 사원의 작업 진척도
   - 로그인한 사원이 참여하고 있는 프로젝트 전체 진척도
   - 팀별 프로젝트 정보 조회
 
-##### 프로젝트 센터 [상세보기-WIKI이동](https://github.com/tnfladl9926/PMS-Servlet/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%BC%ED%84%B0))
+#### 프로젝트 센터 [상세보기-WIKI이동](https://github.com/tnfladl9926/PMS-Servlet/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%BC%ED%84%B0))
   - 프로젝트에 대한 이슈, 산출물, 버전 등 조회
 
-##### 버전관리 [상세보기-WIKI이동](https://github.com/tnfladl9926/PMS-Servlet/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC))
+#### 버전관리 [상세보기-WIKI이동](https://github.com/tnfladl9926/PMS-Servlet/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC))
   - 완료된 프로젝트 버전 정보 관리
   - 이미지, 파일 등 여러 유형의 서류 CRUD
   - 파일 다운로드  
 <br/>
 
 ## :heartpulse: 느낀점
+
+
